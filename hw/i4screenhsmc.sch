@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="6.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -10747,7 +10747,7 @@ Source: www.kingbright.com</description>
 <part name="LED2" library="led" deviceset="LED" device="CHIP-LED0805"/>
 <part name="LED3" library="led" deviceset="LED" device="CHIP-LED0805"/>
 <part name="LED4" library="led" deviceset="LED" device="CHIP-LED0805"/>
-<part name="Q6" library="SparkFun" deviceset="MOSFET-NCHANNEL" device="SMD" value="BSS84"/>
+<part name="Q6" library="SparkFun" deviceset="MOSFET-NCHANNEL" device="SMD" value="BSS138"/>
 <part name="R5" library="rcl" deviceset="R-US_" device="R0805" value="330"/>
 <part name="R8" library="rcl" deviceset="R-US_" device="R0805" value="330"/>
 <part name="R9" library="rcl" deviceset="R-US_" device="R0805" value="680"/>
